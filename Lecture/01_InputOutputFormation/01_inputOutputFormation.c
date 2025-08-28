@@ -1,0 +1,66 @@
+#include<stdio.h>    
+int main()
+{    
+int a,b;
+    scanf("%d %d",&a,&b);
+    printf("%d %d",a,b);
+int a,b;
+    scanf("%d %d",&a,&b);
+    printf("%d %d",a,b);
+int a,b;
+    scanf("%2d%3d",&a,&b);
+    printf("%d %d",a,b);
+int a,b;
+    scanf("%2d%3d",&a,&b);
+    printf("%d %d",a,b);
+int a,b;
+    scanf("%d%d",&a,&b);
+    printf("a=%4d b=%3d",a,b);
+int a,b;
+    scanf("%d%d",&a,&b);
+    printf("a=%4d b=%3d",a,b);
+float a,b;
+    scanf("%3f%4f",&a,&b);
+    printf("a=%f b=%f",a,b);
+float a,b;
+    scanf("%3f%4f",&a,&b);
+    printf("a=%f b=%f",a,b);
+float a,b;
+    scanf("%f%f",&a,&b);
+    printf("a=%4.1f b=%7.2f",a,b);
+float a,b;
+    scanf("%f%f",&a,&b);
+    printf("a=%4.1f b=%7.2f",a,b);
+char str[10];
+    scanf("%s",str);
+    printf("%s",str);
+char str[10];
+    scanf("%s",str);
+    printf("%s",str);
+char str[10];
+    scanf("%3s",str);
+    printf("%s",str);
+char str[10];
+    scanf("%3s",str);
+    printf("%s",str);
+char str[10];
+    scanf("%s",str);
+    printf("%3s",str);
+char str[10];
+    scanf("%s",str);
+    printf("%3s",str);
+char str[10];
+    scanf("%s",str);
+    printf("%5s",str);
+char str[10];
+    scanf("%s",str);
+    printf("%5s",str);
+char str[10];
+    scanf("%s",str);
+    printf("%.3s",str);
+char str[10];
+    scanf("%s",str);
+    printf("%.3s",str);
+
+    return 0;  
+}
